@@ -1,2 +1,2 @@
-# nsb007.github.io
+# bhandari-nitin.github.io
 Personal Website
