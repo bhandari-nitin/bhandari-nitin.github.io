@@ -753,10 +753,10 @@ h1, h2, h3, h4, h5, h6, figure {
   -webkit-transform: translate3d(0, 15px, 0);
   transform: translate3d(0, 15px, 0);
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 500px) {
   .work .desc {
-    opacity: 0.6;
-    background: rgba(255, 255, 255, 0.3);
+    opacity: 0.4;
+    background: rgba(90, 90, 90, 0.3);
   }
   .work .desc h3 {
     -webkit-transform: translate3d(0, 0, 0);
